@@ -1,0 +1,100 @@
+Fund ID,Fund Name,NAV,Category,Risk
+S1,Mahindra Manulife Large & Mid Cap Reg-G,28.32,Equity,High 
+S2,Mahindra Manulife Consumption Reg-G,24.89,Equity,High 
+S3,Mahindra Manulife Mid Cap Reg-G,35.11,Equity,High 
+S4,Mahindra Manulife Small Cap Reg-G,21.4,Equity,Very High
+S5,Mahindra Manulife Large Cap Reg-G,23.69,Equity,Very High
+S6,Tata Infrastructure Reg-G,198.23,Equity,Very High
+S7,Tata Flexi Cap Reg-G,24.41,Equity,Very High
+S8,Tata Ethical Reg-G,436.49,Equity,High 
+S9,Tata Midcap Growth Reg-G,455.92,Equity,High 
+S10,Samco Dynamic Asset Allocation Reg-G,11.52,Hybrid,Very High
+S11,Kotak Nifty SDL Jul 2026 Index Reg-G,11.3,Other,Low to Moderate
+S12,Kotak Long Duration Reg-G,10.55,Debt,Moderate
+S13,Kotak Multicap Reg-G,19.9,Equity,Very High
+S14,Kotak Multi Asset Allocator FoF - Dynamic Reg,224.09,Other,Very High
+S15,Kotak Nifty G-Sec July 2033 Index Reg-G,10.97,Other,Moderate
+S16,Kotak Balanced Advantage Reg-G,20.12,Hybrid,Very High
+S17,Kotak BSE Housing Index Reg-G,14.73,Other,Very High
+S18,Kotak Gold Reg-G,28.71,Other,High
+S19,Kotak Bond Reg-G,72.69,Debt,Moderate
+S20,Kotak Nifty AAA Bond Jun 2025 HTM Index Reg-G,10.33,Other,Low to Moderate
+S21,Kotak Nifty Financial Services Ex-Bank Index,14.19,Other,Very High
+S22,Kotak Manufacture in India Reg-G,19.39,Equity,Very High
+S23,Kotak Debt Hybrid Reg-G,56.8,Hybrid,Moderately High
+S24,Kotak Nifty SDL Apr 2032 Top 12 Equal Weight,11.86,Other,Moderate
+S25,Kotak Silver ETF FoF Reg-G,11.69,Other,Very High
+S26,Kotak Nasdaq 100 FOF Reg-G,16.23,Other,Very High
+S27,Kotak Nifty 200 Momentum 30 Index Reg-G,17.2,Other,Very High
+S28,Kotak Gilt Investment PF & Trust-G,94.34,Debt,Moderate
+S29,Kotak Gilt Investment Regular-G,92.22,Debt,Moderate
+S30,Kotak Healthcare Reg-G,13.97,Equity,Very High
+S31,Kotak Nifty Midcap 50 Index Reg-G,10.37,Other,Very High
+S32,Kotak NIFTY 100Low Volatility 30 Index Reg-G,11.29,Other,Very High
+S33,Kotak Technology Reg-G,12.89,Equity,Very High
+S34,Kotak All Weather Debt FOF Reg-G,11.62,Other,Moderately High
+S35,Kotak Nifty SDL Plus AAA PSU Bond Jul 2028 60,11.55,Other,Moderate
+S36,Kotak Equity Savings Reg-G,25.53,Hybrid,Moderately High
+S37,Kotak Multi Asset Allocation Fund Reg-G,13.12,Hybrid,Very High
+S38,Kotak BSE PSU Index Reg-G,9.22,Other,Low
+S39,Kotak Nifty 50 Index Reg-G,16.37,Other,Very High
+S40,Kotak Nifty SDL Apr 2027 Top 12 Equal Weight,11.51,Other,Low to Moderate
+S41,Kotak Consumption Reg-G,14.52,Equity,Very High
+S42,Kotak Nifty SDL Jul 2028 Index Reg-G,10.45,Other,Moderate
+S43,Kotak Nifty Smallcap 50 Index Reg-G,21.65,Other,Very High
+S44,Kotak Banking & Financial Services Reg-G,14.41,Equity,Very High
+S45,Kotak CRISIL IBX AAA Financial Services Index,0,Other,Very High
+S46,Kotak Quant Reg-G,16,Equity,Very High
+S47,Mirae Asset Liquid-G,2592.72,Debt,Low to Moderate
+S48,Mirae Asset Overnight Reg-G,1259.04,Debt,Low
+S49,Tata Corporate Bond Fund Reg-G,11.61,Debt,Moderate
+S50,Motilal Oswal ELSS Tax Saver Reg-G,54.55,Equity,Very High
+S51,Motilal Oswal Large and Midcap Reg-G,33.62,Equity,Very High
+S52,Navi Nifty IT Index Reg-G,12.44,Other,Very High
+S53,Navi BSE Sensex Index Reg-G,12.6,Other,Very High
+S54,Navi Aggressive Hybrid Reg-G,20.84,Hybrid,Very High
+S55,Navi Nifty 500 Multicap 50:25:25 Index Reg-G,10.29,Other,Very High
+S56,Navi Nifty Midcap 150 Index Reg-G,20.49,Other,Very High
+S57,Navi Nifty 50 Index Reg-G,16.3,Other,Very High
+S58,Navi Flexi Cap Reg-G,24.08,Equity,Very High
+S59,Navi Large & Midcap-G,37.11,Equity,High 
+S60,Navi Conservative Hybrid Reg-G,26.27,Hybrid,Moderate
+S61,Navi Nifty India Manufacturing Index Reg-G,18.01,Other,Very High
+S62,Navi Nifty Bank Index Reg-G,13.32,Other,Very High
+S63,Navi Nifty Next 50 Index Reg-G,17.55,Other,Very High
+S64,Navi US Total Stock Market FoF Reg-G,14.6,Other,Very High
+S65,Navi NASDAQ 100 FoF Reg-G,14.51,Other,Very High
+S66,Navi ELSS Tax Saver-G,30.6,Equity,Very High
+S67,Navi ELSS Tax Saver Nifty 50 Index Reg-G,14.9,Other,Very High
+S68,Axis Floater Reg-G,1220.55,Debt,Moderate
+S69,Axis Gold Reg-G,21.78,Other,High
+S70,Axis Banking & PSU Debt-G,2470.27,Debt,Moderate
+S71,Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 E,11.52,Other,Low to Moderate
+S72,Axis Silver FoF Reg-G,15.04,Other,Very High
+S73,Axis Ultra Short Term Reg-G,13.93,Debt,Low to Moderate
+S74,Axis Overnight Reg-G,1300.89,Debt,Low
+S75,Franklin India Focused Equity-G,111.74,Equity,Moderately High 
+S76,Franklin Build India-G,145.29,Equity,Very High
+S77,Motilal Oswal Large Cap Reg-G,12.91,Equity,Very High
+S78,Motilal Oswal Multi Cap Reg-G,12.35,Equity,Very High
+S79,Motilal Oswal Small Cap Reg-G,13.74,Equity,Very High
+S80,Motilal Oswal Quant Reg-G,11.06,Equity,Very High
+S81,Motilal Oswal Manufacturing Reg-G,10.9,Equity,Very High
+S82,Motilal Oswal Business Cycle Reg-G,11.07,Equity,Very High
+S83,UTI Flexi Cap Reg-G,333.47,Equity,Very High
+S84,Tata GRP280225-G,33.68,Debt,Moderate
+S85,Tata Floating Rate Reg-G,11.96,Debt,Low to Moderate
+S86,Tata Treasury Advantage Reg-G,3701.9,Debt,Low to Moderate
+S87,Tata Ultra Short Term Fund Reg-G,13.4,Debt,Low to Moderate
+S88,Tata GSF Reg-G,73.84,Debt,Moderate
+S89,LIC MF Value Reg-G,26.48,Equity,High 
+S90,LIC MF Focused Reg-G,22.88,Equity,Very High
+S91,LIC MF Midcap Reg-G,30.83,Equity,High 
+S92,LIC MF Small Cap Reg-G,34.03,Equity,Very High 
+S93,LIC MF Dividend Yield Reg-G,32.24,Equity,Low toModerate 
+S94,LIC MF Healthcare Reg-G,29.94,Equity,Very High
+S95,Bank of India Balanced Advantage Reg-G,25.31,Hybrid,Very High
+S96,Bank of India Flexi Cap Reg-G,36.76,Equity,Moderate 
+S97,Bank of India Arbitrage Reg-G,13.13,Hybrid,Low
+S98,Bank of India Multi Asset Allocation Reg-G,11.02,Hybrid,High
+S99,Bank of India Business Cycle Reg-G,10.04,Equity,Very High

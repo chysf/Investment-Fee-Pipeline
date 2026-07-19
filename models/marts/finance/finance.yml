@@ -1,0 +1,16 @@
+version: 2
+
+models:
+  - name: fct_fee_calculation
+    description: Final fact table containing annual and monthly management fee calculations.
+
+    columns:
+      - name: client_id
+        tests:
+          - not_null
+
+      - name: annual_fee
+        description: Annual management fee.
+
+      - name: monthly_fee
+        description: Monthly management fee.

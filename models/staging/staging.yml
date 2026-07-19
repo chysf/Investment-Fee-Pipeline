@@ -1,0 +1,45 @@
+version: 2
+
+models:
+  - name: stg_fund
+    description: Standardized fund master data.
+
+    columns:
+      - name: fund_id
+        tests:
+          - unique
+          - not_null
+
+      - name: fund_name
+        tests:
+          - not_null
+
+  - name: stg_holdings
+    description: Standardized client holdings.
+
+    columns:
+      - name: holding_id
+        tests:
+          - unique
+          - not_null
+
+      - name: client_id
+        tests:
+          - not_null
+
+      - name: fund_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_fund')
+                field: fund_id
+
+  - name: stg_fee_tier
+    description: Tiered management fee configuration.
+
+    columns:
+      - name: tier
+        tests:
+          - unique
+          - not_null
