@@ -1,6 +1,6 @@
 # Investment Fee Calculation Pipeline
 
-An analytics engineering project that builds an end-to-end investment fee calculation pipeline using **dbt, SQL, DuckDB, and Python**.
+An analytics engineering project that builds an end-to-end investment fee calculation pipeline using **dbt, SQL, and DuckDB**.
 
 The project transforms raw investment fund and client holdings data into client-level management fee calculations through a structured ELT workflow, including staging, intermediate transformations, data quality testing, and final reporting models.
 
@@ -34,7 +34,6 @@ The pipeline:
 | dbt        | Data transformation framework and testing |
 | SQL        | Data modelling and transformation logic   |
 | DuckDB     | Local analytical database                 |
-| Python     | Sample data generation and preparation    |
 | GitHub     | Version control and documentation         |
 
 ---
